@@ -18,3 +18,9 @@ Console.WriteLine("ahahaahahah");
 Console.WriteLine("ahahaahahah");
 Console.WriteLine("ahahaahahah");
 Console.WriteLine("ahahaahahah");
+
+Console.WriteLine("Frolov ne ponimaet kak delat' eto zadanie!!!");
+Console.WriteLine("Frolov ne ponimaet kak delat' eto zadanie!!!");
+Console.WriteLine("Frolov ne ponimaet kak delat' eto zadanie!!!");
+Console.WriteLine("Frolov ne ponimaet kak delat' eto zadanie!!!");
+Console.WriteLine("Frolov ne ponimaet kak delat' eto zadanie!!!");
